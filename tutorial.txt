@@ -1,0 +1,27 @@
+﻿
+join botnya disini 
+https://t.me/adsgram_ltc_bot?start=1f90533d0b89
+
+https://t.me/adsgram_doge_bot?start=9fd1015a5d56
+
+https://t.me/adsgram_btc_bot?start=ccb85bd013b8
+
+python -m pip install -r requirements.txt
+
+pkg install nano
+
+nano cfg.json 
+(Edit isi file cfg.json... Isi dengan walet)
+
+perintah.a seperti ini
+
+
+python namasc.py +62xx(No.Akun)
+
+
+Contoh:
+
+python dogeads.py +6281649640655
+
+
+Sekian.... Bila ada kekeliruan bertanyalah di group tele kami @kuli_online_channel
